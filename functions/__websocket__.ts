@@ -82,8 +82,6 @@ class Server {
       cloud.shared.set('rooms', rooms);
     }
 
-    console.log('rooms', rooms);
-
     return rooms;
   }
 

@@ -1,5 +1,8 @@
 # lafdrop
+
 Snapdrop in Laf
+
+![](./docs/demo.gif)
 
 ## Try it online
 
@@ -20,4 +23,4 @@ Snapdrop in Laf
 
 ## Open Source
 
-This repo is Laf version of Snapdrop, Because Snapdrop open source with GPL-3.0, so lafdrop is also under GPL-3.0.
+This repo is Laf version of [Snapdrop](https://github.com/RobinLinus/snapdrop), Because [Snapdrop](https://github.com/RobinLinus/snapdrop) open source with GPL-3.0, so [lafdrop](https://github.com/moonrailgun/lafdrop) is also under GPL-3.0.

@@ -3,3 +3,4 @@ tsconfig.json
 types
 node_modules
 .secret.yaml
+.DS_Store

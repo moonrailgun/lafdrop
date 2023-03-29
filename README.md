@@ -12,6 +12,7 @@ Snapdrop in Laf
 
 - create laf app
 - modify `laf.yaml` to your own `name` and `appid`
+- modify `static/scripts/network.js#_endpoint` with your own path.
 - push func and static file
   ```bash
   laf login

@@ -56,12 +56,6 @@ class ServerConnection {
 
     _endpoint() {
         return 'wss://uui1ik.laf.dev/__websocket__'
-
-        // hack to detect if deployment or development environment
-        const protocol = location.protocol.startsWith('https') ? 'wss' : 'ws';
-        const webrtc = window.isRtcSupported ? '/webrtc' : '/fallback';
-        const url = protocol + '://' + location.host + location.pathname + 'server' + webrtc;
-        return url;
     }
 
     _disconnect() {
